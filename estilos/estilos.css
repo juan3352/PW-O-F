@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16/09/2021, 02:25:24 PM
+    Author     : juanc
+*/
+
+.principal {
+    background-color: Black;
+    background-image: url('../imagenes/fondo.jpg');
+    /*background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/03/64/91/6257ada2701dcb3.jpg);*/
+    background-size: 100%;
+}
+
+.cabeza {
+    background-image: url('../imagenes/hexagono.jpg');
+}
+
+.parrafo {
+    color: white;
+    margin: 30px;
+}
+
+.foot1 {
+    background-color: black;
+}
